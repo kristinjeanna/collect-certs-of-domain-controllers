@@ -23,3 +23,6 @@ The output file will be created if it doesn't already exists and will be appende
 **Example**:
 ```
 $ collect-certs-of-domain-controllers.sh mydomain.com /tmp/certs.pem
+```
+
+![screenshot](sample.png)
