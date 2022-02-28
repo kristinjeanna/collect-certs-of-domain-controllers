@@ -18,7 +18,7 @@ Script requires two arguments:
 1. the domain name of the AD domain
 2. the path to the output file
 
-The output file will be created if it doesn't already exists and will be appended to if it does exist.
+The output file will be created if it does not already exist and will be appended to if it does exist.
 
 **Example**:
 ```
